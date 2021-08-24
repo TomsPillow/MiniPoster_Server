@@ -10,5 +10,5 @@
 * 在本地主机使用`MiniPoster_Client`程序进行目标文件传输
 ## 关于启动文件`run.sh`的说明
 * 初始命令为`./bin/server -p ../`，其中`-p`指定文件上传目录，
-* 这里设置为`MiniPoster_Server`的上层目录，如有需要，可自行更改。
+* 这里设置为了`MiniPoster_Server`的上层目录，如有需要，可自行更改。
 # 这里不排除存在bug的可能性
