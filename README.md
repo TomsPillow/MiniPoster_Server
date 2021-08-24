@@ -1,8 +1,8 @@
 # MiniPoster_Server
 ## 项目介绍
-* _MiniPoster_Server_为服务器端程序
+* MiniPoster_Server为服务器端程序
 * 实现本地主机到个人服务器的文件单向传输
-* 面向_Linux_系统编写
+* 面向 Linux系统编写
 ## 使用步骤
 * 终端输入`git clone https://github.com/samona-omo/MiniPoster_Server.git`
 * 完成下载后，进入`MinPoster_Server`目录，输入`sh complier.sh`
